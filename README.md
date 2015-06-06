@@ -55,7 +55,7 @@ Aozoraflowは「青空文庫のテキストをGitリポジトリで管理する�
 4. リポジトリ管理者はプルリクエストを確認し、問題なければeditブランチにマージする。
 5. 全ての入力が完了したら`TYPE_COMPLETE`のタグを付ける
 
-<img src="https://docs.google.com/drawings/d/1AVIPo74Y3Aeyb61iAKKGJxNL-5mvdvkFeLFUPko2oiU/pub?w=328&amp;h=325">
+<img src="https://docs.google.com/drawings/d/1AVIPo74Y3Aeyb61iAKKGJxNL-5mvdvkFeLFUPko2oiU/pub?w=953&amp;h=325">
 
 #### 校正作業
 
@@ -71,4 +71,4 @@ Aozoraflowは「青空文庫のテキストをGitリポジトリで管理する�
 2. マージしたコミットに`PUBLISHED`のタグを付ける
 
 
-<img src="https://docs.google.com/drawings/d/1BaV1_SoalXpzB7FRW2apsHeC3RXutPM9yYdN47t6USA/pub?w=472&amp;h=372">
+<img src="https://docs.google.com/drawings/d/1BaV1_SoalXpzB7FRW2apsHeC3RXutPM9yYdN47t6USA/pub?w=943&amp;h=743">
